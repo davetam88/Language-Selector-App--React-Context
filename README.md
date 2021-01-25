@@ -1,10 +1,10 @@
 # Language Selector APP
 
 ## APP SUMMARY:
-This simple App demosrtrate the use of React context, lister, provider and prop callback for a deeply nested Components.
+This simple app demonstrates the use of React context, listener, provider, and prop callback for deeply nested components.
 
 ## APP USAGE:
-- click on the three buttons on top and the current lanaguet text will be show bleow the buttons and the correosponing text in the coustry selected will ber dispalyed.
+- Click on one of the three buttons on top and the corresponding text for the language selected will be displayed. Also, a button after the text display will invoke a callback from a deeply nested component.
 
 ## Github:
 * GITHUB NAME: language-selector-app--react-context
@@ -14,5 +14,4 @@ This simple App demosrtrate the use of React context, lister, provider and prop 
 - HTML
 - CSS
 - Javascript: event.
-- React : Context, Provider, Consumer, and Prop Callback/event listener.
-
+- React Context, Provider, Consumer, and Prop Callback/event listener.
